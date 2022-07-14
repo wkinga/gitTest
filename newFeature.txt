@@ -1,1 +1,2 @@
-To jest zmiana na masterze
+To jets zmiana na newFeature
+
